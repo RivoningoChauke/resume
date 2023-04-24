@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(23, 215, 236);
+    background-color: azure;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ body{
 }
 .right{
     position: initial;
-    background-color: cornflowerblue;
+    background-color: rgb(23, 215, 236);
     padding: 20px;
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
@@ -33,5 +33,5 @@ body{
     margin-bottom: 30px;
 }
 .h2{
-    background-color: rgb(237, 100, 216);
+    background-color: aqua;
 }
