@@ -29,7 +29,7 @@ body{
     padding: 20px;
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
-.Summary, .Experience, .Education, .project{
+.Summary, .Experience, .Education{
     margin-bottom: 30px;
 }
 .h2{
